@@ -7,3 +7,6 @@
 **/__pycache__/**
 nxtscape-cli-access.json
 gclient.json
+resources/media/nxtscape-chat.gif
+resources/media/nxtscape-productivity.gif
+resources/media/nxtscape-agent.gif
